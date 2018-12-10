@@ -2,7 +2,7 @@
 #cars.sh
 #Brinly Xavier
 
-quit=True
+quit=true
 while $quit
 do
 	echo "Enter (A)to enter a car, (B)to list the cars, or (C)to quit"
